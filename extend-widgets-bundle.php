@@ -7,7 +7,6 @@ Plugin URI: http://motointermedia.com
  * Author: Matthias Härlin
  * Author URI: http://www.motointermedia.com
  * License: MIT
- * stand: 10/2017
 */
 function add_my_awesome_widgets_collection($folders){
     $folders[] = plugin_dir_path(__FILE__).'extra-widgets/';
