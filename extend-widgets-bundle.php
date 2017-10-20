@@ -3,7 +3,7 @@
 Plugin Name: Moto Widgets for SiteOrigin
 Plugin URI: http://motointermedia.com
  * Description: Some useful widgets for SiteOrigin PageBuilder.
- * Version: 0.1 beta
+ * Version: 0.1
  * Author: Matthias Härlin
  * Author URI: http://www.motointermedia.com
  * License: MIT
