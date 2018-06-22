@@ -34,5 +34,5 @@ elseif ($position == 'bottom'){ $posClass="align-items-end";}
         <div class="actionBtn"><?php echo $buttontext; ?></div>
      </div>
     </figcaption>
-    <a href="<?php echo $url; ?>"></a>
+    <a href="<?php echo sow_esc_url($url); ?>"></a>
 </figure>
